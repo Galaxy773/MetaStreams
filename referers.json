@@ -1,0 +1,46 @@
+[
+  {
+    "referer": "https://www.linkedin.com/",
+    "chance": 300
+  },
+  {
+    "referer": "https://duckduckgo.com/",
+    "chance": 259
+  },
+  {
+    "referer": "https://www.bing.com/",
+    "chance": 661
+  },
+  {
+    "referer": "https://www.google.com/",
+    "chance": 8701
+  },
+  {
+    "referer": "https://t.co/",
+    "chance": 450
+  },
+  {
+    "referer": "https://l.facebook.com/",
+    "chance": 800
+  },
+  {
+    "referer": "https://www.reddit.com/",
+    "chance": 200
+  },
+  {
+    "referer": "https://search.yahoo.com/",
+    "chance": 331
+  },
+  {
+    "referer": "https://l.instagram.com/",
+    "chance": 200
+  },
+  {
+    "referer": "https://www.ecosia.org/",
+    "chance": 30
+  },
+  {
+    "referer": "https://yandex.com/",
+    "chance": 18
+  }
+]
